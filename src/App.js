@@ -1,11 +1,11 @@
 import './App.css';
-import Ejercicio1 from './Components/Ejercicio1';
+import NumField from './Components/NumField';
 
 function App() {
   return (
     <div id="main">
       <p>Hello World!</p>
-      <Ejercicio1></Ejercicio1>
+      <NumField></NumField>
     </div>
   );
 }
