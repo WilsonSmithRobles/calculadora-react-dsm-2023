@@ -1,0 +1,14 @@
+.Calculadora{
+    display : flex;
+    flex-direction: column;
+    position : relative;
+    align-items: center;
+}
+
+.active_button{
+    background-color: rgb(43, 189, 43);
+}
+
+.inactive_button{
+    background-color: white;
+}
